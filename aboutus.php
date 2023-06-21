@@ -5,7 +5,11 @@ include("navbar.php");
  ?>
  <style type="text/css">
  	.myabout{
+<<<<<<< HEAD
 	background-image: url(img/pexels-fauxels-3184418.jpg);
+=======
+	background-image: url(img/pexels-alex-andrews-821754.jpg);
+>>>>>>> 007d896 (second commit)
 	background-size: cover;
 	background-position: center;
 	min-width: 100%;
@@ -22,6 +26,7 @@ include("navbar.php");
 
  </style>
 <div class="container text-light p-5 myabout">
+<<<<<<< HEAD
 	<h1 class="heading1 mb-5">ABOUT US</h1>
     <div class="container">
     	<div class="d-sm-flex about">
@@ -35,6 +40,9 @@ include("navbar.php");
     		</div>
     	</div>
     </div>
+=======
+	<h1 class="heading1 mb-5 text-dark pt-5" style="font-size: 50px;">Let's connect</h1>
+>>>>>>> 007d896 (second commit)
 </div>
 <?php 
 
