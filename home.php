@@ -40,23 +40,41 @@ include("navbar.php");
     <div class="container d-sm-flex mt-5 mycount">
         <div>
             <ul>
+<<<<<<< HEAD
                 <li>Nigeria</li>
                 <li>Ghana</li>
                 <li>South Africa</li>
+=======
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Nigeria</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Ghana</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> South Africa</li>
+>>>>>>> 007d896 (second commit)
             </ul>
         </div>
         <div>
             <ul>
+<<<<<<< HEAD
                 <li>Jamaica</li>
                 <li>Latin</li>
                 <li>Carribean</li>
+=======
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Jamaica</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Latin</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Carribean</li>
+>>>>>>> 007d896 (second commit)
             </ul>
         </div>
         <div>
             <ul>
+<<<<<<< HEAD
                 <li>USA</li>
                 <li>Canada</li>
                 <li>UK</li>
+=======
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> USA</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> Canada</li>
+                <li><i class="fa fa-check" aria-hidden='true' style="color: #e91e80;"></i> UK</li>
+>>>>>>> 007d896 (second commit)
             </ul>
         </div>
     </div>
